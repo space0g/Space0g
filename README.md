@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**space0g/Space0g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on My route to my NASA career.
 - 🌱 I’m currently learning Python - C++ - Physics
 - 👯 I’m looking to collaborate on Anything
