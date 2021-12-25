@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python - C++ - Physics
 - 👯 I’m looking to collaborate on Anything
 - 🤔 I’m looking for help with Python bots and automation 
-- 💬 Ask me about Space
+- 💬 Ask me about Space or science/engineering. Try my best to answer
 - 📫 How to reach me: spaceman2596@gmail.com or discord @ JF | space#3705
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I really love space! 
