@@ -5,13 +5,14 @@ def clearConsole():
     command = 'clear'
     if os.name in ['nt','dos']: command = 'cls'
     os.system(command)
+
 def __init__():
     clearConsole()
     def user_input():
         user_input0=int(input("Enter-Player1: "))
         user_input1=int(input("Enter-Player2: "))
         return user_input0, user_input1
-
+ 
     a,b =  user_input() 
 
     def random0(): 
